@@ -38,4 +38,8 @@ div.kb-content div.kb-article {
 	img {
 		border: 1px solid #253342;
 	}
+	
+	h2 {
+		color: red !important;
+	}
 }
