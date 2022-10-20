@@ -1,45 +1,9 @@
-div.kb-content div.kb-article {
-	table.custom_table {
-			border-collapse: collapse;
-			width: 100%;
-			margin: 0 auto !important;
-			font-family: sans-serif;
-			box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
-			font-size: .9em;
-		}
-		
-	table.custom_table.small {
-		width: 50%;
-	}
-
-	table.custom_table td,
-	table.custom_table th {
-		padding: 8px;
-	}
-
-	table.custom_table tbody tr:nth-child(even) {
-		background-color: #f3f3f3;
-	}
-
-	table.custom_table thead > tr {
-		background-color: #1d1e1d;
-		color: #ffffff;
-		text-align: left;
-	}
-
-	table.custom_table.centered td {
-		text-align: center;
-	}
-
-	.kb-article, .kb-search__suggestions__article-content, .kb-search-results__description {
-		font-family: helvetica, arial, sans-serif !important;
-	}
-
-	img {
-		border: 1px solid #253342;
+body {
+    div.flex img {
+	    border: 1px solid black;
 	}
 	
-	h2 {
-		color: red !important;
+	strong.ab-bold font-extrabold {
+		font-weight: 500;
 	}
 }
