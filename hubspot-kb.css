@@ -1,9 +1,9 @@
 body {
     div.flex img {
-	    border: 1px solid black;
+	    border: 1px solid black !important;
 	}
 	
-	strong.ab-bold font-extrabold {
+	strong.ab-bold.font-extrabold {
 		font-weight: 500;
 	}
 }
