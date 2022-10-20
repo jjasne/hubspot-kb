@@ -1,4 +1,5 @@
 body {
+	color: red !important;
     div.flex img {
 	    border: 1px solid black !important;
 	}
